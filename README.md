@@ -1,1 +1,3 @@
-# blog_code_resource
+# 说明
+该仓库主要用于存放博客文章需要使用的demo代码
+# 目录
